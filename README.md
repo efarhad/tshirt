@@ -17,7 +17,7 @@ This is a simple eCommerce website for selling T-shirts, built with PHP, MySQL, 
 
 1.  **Clone the repository:**
     ```
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/efarhad/tshirt.git
     ```
 2.  **Create a MySQL database:**
     *   Create a new database called `ecommerce`.
@@ -37,3 +37,6 @@ This is a simple eCommerce website for selling T-shirts, built with PHP, MySQL, 
 *   **URL:** `http://localhost/path-to-your-project/admin/`
 *   **Username:** `admin`
 *   **Password:** `password`
+
+need pro version?
+get one from <a href='https://rivertheme.com'>RiverTheme.com</a>
